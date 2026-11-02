@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">OluwaNifemi Oduntan</title>
+  <desc id="desc">Product engineering, web development and automation. Building with purpose.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173d34" />
+      <stop offset="1" stop-color="#102c25" />
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="20" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)" />
+    <g fill="none" stroke="#d3b780" stroke-width="1.2" opacity="0.28">
+      <circle cx="1085" cy="170" r="204" />
+      <circle cx="1085" cy="170" r="152" />
+      <circle cx="1085" cy="170" r="100" />
+      <path d="M881 170h408M1085-34v408" />
+    </g>
+    <circle cx="985" cy="170" r="6" fill="#d3b780" />
+    <path d="M58 57h42" stroke="#d3b780" stroke-width="3" />
+    <text x="114" y="63" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#d3b780">BUILDING WITH PURPOSE</text>
+    <text x="58" y="155" font-family="Georgia, 'Times New Roman', serif" font-size="65" fill="#f8f4e9">OluwaNifemi Oduntan</text>
+    <text x="61" y="203" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#e0e7df">Product engineering. Web development. Automation.</text>
+    <path d="M60 244h735" stroke="#789083" stroke-width="1" opacity="0.48" />
+    <text x="61" y="282" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#bed0c4">From a clear problem to a useful product.</text>
+  </g>
+</svg>
